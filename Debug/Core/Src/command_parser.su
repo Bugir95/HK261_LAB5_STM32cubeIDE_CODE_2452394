@@ -1,0 +1,2 @@
+command_parser.c:11:6:command_parser_receive_byte	24	static
+command_parser.c:24:6:command_parser_fsm	16	static

@@ -58,36 +58,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define Led_Test_System_Pin GPIO_PIN_1
-#define Led_Test_System_GPIO_Port GPIOA
-#define Dot_Pin GPIO_PIN_4
-#define Dot_GPIO_Port GPIOA
-#define Led_5_Pin GPIO_PIN_5
-#define Led_5_GPIO_Port GPIOA
-#define En0_Pin GPIO_PIN_6
-#define En0_GPIO_Port GPIOA
-#define En1_Pin GPIO_PIN_7
-#define En1_GPIO_Port GPIOA
-#define Led7_a_Pin GPIO_PIN_0
-#define Led7_a_GPIO_Port GPIOB
-#define Led7_b_Pin GPIO_PIN_1
-#define Led7_b_GPIO_Port GPIOB
-#define Led7_c_Pin GPIO_PIN_2
-#define Led7_c_GPIO_Port GPIOB
-#define En2_Pin GPIO_PIN_8
-#define En2_GPIO_Port GPIOA
-#define En3_Pin GPIO_PIN_9
-#define En3_GPIO_Port GPIOA
-#define Led_Test_Timer_Pin GPIO_PIN_11
-#define Led_Test_Timer_GPIO_Port GPIOA
-#define Led7_d_Pin GPIO_PIN_3
-#define Led7_d_GPIO_Port GPIOB
-#define Led7_e_Pin GPIO_PIN_4
-#define Led7_e_GPIO_Port GPIOB
-#define Led7_f_Pin GPIO_PIN_5
-#define Led7_f_GPIO_Port GPIOB
-#define Led7_g_Pin GPIO_PIN_6
-#define Led7_g_GPIO_Port GPIOB
+#define LED_RED_Pin GPIO_PIN_5
+#define LED_RED_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
